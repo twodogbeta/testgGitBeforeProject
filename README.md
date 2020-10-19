@@ -1,0 +1,2 @@
+# testgGitBeforeProject
+test git
